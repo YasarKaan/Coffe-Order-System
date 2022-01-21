@@ -1,7 +1,7 @@
 <?php
 
 include "config/config.php";
-include "fileLog.php"
+include "fileLog.php";
 
 if (isset($_POST['uname']) && isset($_POST['password'])) {
 
