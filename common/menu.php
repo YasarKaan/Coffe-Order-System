@@ -109,21 +109,7 @@
                 <br>
             </div>
         </div>
-        <div class="box-3 float-container">
-            <div class="coffee-menu-img">
-                <img src="images/türkkahvesi.jpg" alt="Türk Kahvesi" class="img-responsive img-curve">
-            </div>
-
-            <div class="coffee-menu-desc">
-                <h4>Turkish coffee</h4>
-                <p class="coffee-price">$5</p>
-                <p class="coffee-detail">
-                    Turkish coffee is a style of coffee prepared in a cezve using very finely ground coffee beans without filtering.
-                </p>
-                <br>
-            </div>
-        </div>
-
+        
         <div class="clearfix"></div>
     </div>
 </section>
